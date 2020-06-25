@@ -1,5 +1,5 @@
 # Stochastic-Optimization
 
-$$ f(x) $$
+see PDF or the ipynb file.
 
 
