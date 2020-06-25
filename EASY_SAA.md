@@ -3,6 +3,7 @@
 # 1. Introduction
 
 How can we solve an optimization problem of the form
+  
 \begin{align}
 \underset{x \in X}{\text{minimize}}& \; f(x) 
 \end{align}
